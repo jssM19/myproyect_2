@@ -1,0 +1,26 @@
+.container-table {
+  display: flex;
+  justify-content: center;
+  margin: 150px auto;
+  width: 600px;
+}
+table,
+th,
+td {
+  border: none;
+}
+
+th {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+th,
+td {
+  padding: 15px;
+}
+
+th,
+td {
+  border-color: black;
+}
